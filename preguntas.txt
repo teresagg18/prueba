@@ -1,0 +1,2 @@
+¿Qué es Git?
+- git es un  programa en el cual lleva control de las versiones 
