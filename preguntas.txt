@@ -1,2 +1,5 @@
 ¿Qué es Git?
 - git es un  programa en el cual lleva control de las versiones 
+
+¿Qué es GitHub?
+-es un programa en el cual se puede modificar crear y compartir códigos entre varias personas 
